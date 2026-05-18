@@ -1,0 +1,1 @@
+D:\koding\rust\02-package\restaurant\target\debug\restaurant.exe: D:\koding\rust\02-package\restaurant\src\front_of_house\hosting.rs D:\koding\rust\02-package\restaurant\src\front_of_house.rs D:\koding\rust\02-package\restaurant\src\lib.rs D:\koding\rust\02-package\restaurant\src\main.rs
